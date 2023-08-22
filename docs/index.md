@@ -39,3 +39,11 @@ I wanted to show this just as an example of when things go wrong.  I added an ex
 
 And here is how it is called in the code:
 
+![alt text](https://github.com/egg2020/IntroToProg-Python-Mod07/blob/main/docs/Capture2.PNG "tooltip text")
+
+I am using this particular error handling code, only in one location where the user has the ability to enter more numbers than my code can handle, and this code let's the user know that the input was invalid.  
+
+## Summary 
+In summary, pickling enables us to store formatted data into a file, with the added bonus of obscuring the data.  Error Handling allows us to put in custom error codes, where we feel they may be needed.  
+
+
