@@ -33,4 +33,9 @@ When something goes wrong in the code, python uses built in Error classes to exp
 
 ![alt text](https://github.com/egg2020/IntroToProg-Python-Mod07/blob/main/docs/Capture.PNG "tooltip text")  
 
-I wanted to show this just as an example of when things go wrong.  I added an extra letter into my code so that an error would show up.  But now, I am going to have the program call a custom error class, that is a little more detailed.  Below is first the example of the code, and second the error when run in the code:
+I wanted to show this just as an example of when things go wrong.  I added an extra letter into my code so that an error would show up.  But now, I am going to have the program call a custom error class, that is a little more detailed.  Below is an example of a custom class, and how it looks when it's called.
+
+![alt text](https://github.com/egg2020/IntroToProg-Python-Mod07/blob/main/docs/Capture.PNG "tooltip text")  
+
+And here is how it is called in the code:
+
