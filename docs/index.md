@@ -29,4 +29,8 @@ objFile.close()
 As you can see, it's all pretty simple.  Now lets take a look at Error Handling.  
 
 ## Error Handling  
-When something goes wrong in the code, python uses built in Error classes to explain to the programmer what has happened.  This usually results in a program crash.  We can create our own error handling classes, and call them whenever we think there is potential for errors to occur.  What is more, is that the program doesn't neccessarily need to crash.  Below is an example of when python's built error code kicks in:
+When something goes wrong in the code, python uses built in Error classes to explain to the programmer what has happened.  This usually results in a program crash.  We can create our own error handling classes, and call them whenever we think there is potential for errors to occur.  What is more, is that the program doesn't neccessarily need to crash.  Below is an example of when python's built error code kicks in:  
+
+![alt text](https://github.com/egg2020/IntroToProg-Python-Mod07/blob/main/docs/Capture.PNG "tooltip text")  
+
+I wanted to show this just as an example of when things go wrong.  I added an extra letter into my code so that an error would show up.  But now, I am going to have the program call a custom error class, that is a little more detailed.  Below is first the example of the code, and second the error when run in the code:
